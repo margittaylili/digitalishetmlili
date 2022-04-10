@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <link  rel ="stylesheet" href ="bootstrap.min.css">
+    <link rel="stylesheet" href="style.css">
+    <title>Versek</title>
+</head>
+
+<body>
+    <header class="container">
+        <div class="row">
+            <div class="col-12">
+
+            </div>
+        </div>
+    </header>
+       <nav class="container navbar navbar-expand-lg navbar-light">
+        <button class="navbar-toggler ml-auto" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+                    <article class="row">
+                        <div class="col-12">
+                            <h2 class="d-none d-sm-block">Digitális témahét</h2>
+                            <h2 id="leggyakoribb">Versek</h2>
+                        </div>
+                        <div class="col-sm-6 col-lg-6">
+                            <img src="töri.jpg" alt="történelem">
+                            <h3>Történelem</h3>
+                            <p>Én vagyok a király és földet adok néked<br>
+                                ha katona leszel te egyszerű lélek<br>
+                                De ha te esetleg nemesnek születtél<br>
+                                nem kell a pénzed a véreddel fizessél<br>
+                                Lovagi erények hűség és bátorság<br>
+                                legyél hűséges fő az igazság<br></p>
+                        </div>
+                        <div class="col-sm-6 col-lg-6">
+                            <img src="ktt.jpg" alt="ktt">
+                            <h3>Komplex természettudomány</h3>
+                            <p>Védd a fákat  fontosak<br>
+                                sok oxigént ontanak<br>
+                                Ne irtsd ki mert vétek a<br>
+                                Többszáz éves kérget<br>
+                                Nemlesz többé levegő<br>
+                                Ez pusztuláshoz vezető.<br></p>
+                        </div>
+
+                        <div class="row">
+                              <div  class="col-sm-6 col-lg-6">
+                            <img src="angol.jpg" alt="angol">
+                            <h3>Angol</h3>
+                            <p>My parents sent me to the store<br>
+                               to buy a bag of cheese<br>
+                               I came home with a bear<br>
+                               and a beaver instead<br>
+                               I came home with a alpaca<br>
+                               a goat and a lama<br>
+                               a cat and a frog<br>
+                               and a fire fox<br>
+                               I also had a dog<br>
+                                and a rabbit and a frog<br>
+                               My parents never let me<br>
+                               do the shopping anymore<br><p>
+                        </div>
+                        <div class="col-sm-6 col-lg-6">
+                            <img src="dk.jpg" alt="DK">
+                            <h3>Digitális kúltura</h3>
+                            <p>Amit szivedbe rejtesz,<br>
+                                szemednek tárd ki azt;<br>
+                                amit szemeddel sejtesz,<br>
+                                sziveddel várd ki azt.<br>
+
+                                A szerelembe – mondják –<br>
+                                belehal, aki él.<br>
+                                De úgy kell a boldogság,<br>
+                                mint egy falat kenyér.<br>
+
+                                S aki él, mind-mind gyermek<br>
+                                és anyaölbe vágy.<br>
+                                Ölnek, ha nem ölelnek –<br>
+                                a harctér nászi ágy<br></p>
+                        </div>
+                        <div class="col-sm-6 col-lg-6">
+                            <img  src="irodalom2.png" alt ="irodalom" >
+                            <h3>Irodalom</h3 >
+                            <p> Állt az anya keservében<br>
+                                sírva a kereszt tövében,<br>
+                                melyen függött szent Fia,<br>
+                                kinek megtört s jajjal-tellett<br>
+                                lelkét kemény kardnak kellett<br>
+                                kínzón általjárnia.<br>
+                                Óh mily búsan, sujtva állt ott<br>
+                                amaz asszonyok-közt-áldott,<br>
+                                ki Téged szűlt, Egyszülött!<br>
+                                Mily nagy gyásza volt sírása<br>
+                                mikor látta szent Fiát a<br>
+                                szívtépő kínok között!<br>
+                                Van-e oly szem, mely nem sírna<br>
+                                Krisztus anyjával s e kínra<br>
+                                hidegen pillantana?<br>
+                                aki könnyek nélkül nézze,<br>
+                                hogy merűl a szenvedésbe<br>
+                                fia mellett az anya?<br>
+                                Látta Jézust, hogy fajtája<br>
+                                vétkéért mit vett magára<br>
+                                és korbáccsal vereték.<br>
+                                S látta édes fiát végül<br>
+                                haldokolni vigasz nélkül,<br>
+                                míg kiadta életét.<br>
+                                Kútja égi szeretetnek,<br>
+                                engedd éreznem sebednek<br>
+                                mérgét: hadd sírjak veled!<br>
+                                Engedd, hogy a szívem égjen<br>
+                                Krisztus isten szerelmében,<br>
+                                s ő szeressen engemet!<br></p>
+                        </div>
+                        <div class="col-sm-6 col-lg-6">
+                            <img src="matek.png" alt="matek kép">
+                            <h3>Matematika</h3>
+                            <p>Matematikusnak nem lennék jo<br>
+                                a statisztikában sincs semmi jo<br>
+                                Mivel a Számológépem is csak egy tombola nyeremény<br>
+                                Így sok segítséget nem ér<br>
+                                A matematika egyik ága függvények<br>
+                                Diákoknak alma hogy értsék meg<br>
+                                A statisztika azt mutatja<br>
+                                Hany gyerek tudhatja<br>
+                                Vannak betűk számok<br>
+                                Minden vágyam  kerülni a rákot<br>
+                                Figyelni kell órán<br>
+                                Nehogy bukjal<br>
+                                Tudod mi az a médián<br>
+                                Ha nem akkor hagyjál<br>
+                                Matekoran figyelmesen dolgozz<br>
+                                Semmi hozzafuzni való<br>
+                                Tanár úrral kedves lenni<br>
+                                Különben lehet ismételni<br>
+                                A statisztika hazudhat<br>
+                                Mint a  közösségi média<br>
+                                Ki ne mond hogy nem értem<br>
+                                Hiszen  lesz dolgod estére<br>
+                                Ha nincs kész a hazid<br>
+                                Jöhet a pánik<br>
+                                Mindig mondom hogy hagyjon már békén<br>
+                                így értem meg a végén<br>
+                                Beszélj hangosan<br>
+                                Ne úgy mint egy csivava<br>
+                                A fuzetem már 2x betelt<br>
+                                De ha nincsen lefejel<br>
+                                Tanar úrnak én vagyok a kedvence<br>
+                                Becézik hogy Kittike<br>
+                                A hazid jobb ha kész  macika<br>
+                                Különben jöhet a szóráska<br></p>
+                        </div>
+</body>
+</html>
