@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -45,8 +48,21 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+<<<<<<< Updated upstream
     <property name="last_opened_file_path" value="$PROJECT_DIR$/bootstrap.min.css" />
+=======
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+>>>>>>> Stashed changes
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Margittay Familie\Documents\GitHub\digitalishetmlili" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
@@ -60,11 +76,15 @@
       <option name="presentableId" value="Default" />
       <updated>1649239401661</updated>
       <workItem from="1649239403957" duration="873000" />
+<<<<<<< Updated upstream
       <workItem from="1649258437478" duration="650000" />
       <workItem from="1649311956138" duration="28000" />
       <workItem from="1649312319576" duration="891000" />
       <workItem from="1649412084467" duration="4244000" />
       <workItem from="1649613233076" duration="2769000" />
+=======
+      <workItem from="1649258437478" duration="1399000" />
+>>>>>>> Stashed changes
     </task>
     <servers />
   </component>
